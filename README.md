@@ -20,7 +20,7 @@ MemoryStringsDumper is a Windows console application written in C++ that allows 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/MemoryDumpSelector.git
+   git clone https://github.com/a2heus/MemoryStringsDumper
    ```
 2. Open the project in your preferred C++ IDE (e.g., Visual Studio) or compile via the command line.
 3. Make sure your compiler supports C++11 or later.
